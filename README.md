@@ -1,2 +1,2 @@
-# flhs-hack-club
-A new website for the flhs hack club!
+# Francis Lewis High School Hack Club
+The new website for the flhs hack club! Our original website was at https://flhs-hacks.flhshacks.repl.co.
