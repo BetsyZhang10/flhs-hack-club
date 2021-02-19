@@ -3,4 +3,6 @@ The new website for the flhs hack club! Our original website was at https://flhs
 
 This website is being hosted on Vercel for faster deployment.
 
-Please be patient as we set everything up.
+Because this repository is unfinished, you may experience some bugs when using the website.
+
+Please be patient as we finish setting everything up.
