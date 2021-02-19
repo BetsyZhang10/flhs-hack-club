@@ -20,7 +20,11 @@
   text-align: center;
   color: green;
 }
-
+@media only screen and (max-width: 500px) {
+  /*shows elements in a column*/
+  ul{
+    flex-direction: column;
+  }
 ul {
   list-style-type: none;
   margin: 0;
@@ -34,11 +38,16 @@ ul {
   margin: 0 2vw;
   font-size: 3vh;
   font-family: monospace;
-
 }
+li{
+    margin: 0;
+  }
 a:hover{
   background-color: #C6E9FF;
 }
+a{
+    display: block;
+  }
 body {
 background-color: aliceblue; }
 #register-meeting {
