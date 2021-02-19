@@ -34,15 +34,17 @@ ul {
   font-size: 3vh;
   font-family: monospace;
 }
+
 li{
     margin: 0;
-    display: inline;
   }
 a:hover{
   background-color: #C6E9FF;
 }
 a{
     display: block;
+    padding: 8px;
+  background-color: #dddddd;
   }
 body {
 background-color: aliceblue; }
