@@ -22,12 +22,7 @@
 }
 
 .topnav {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  background-color: black;
-  padding: 10px;
+  
 }
 .topnav a {
   color: white;
