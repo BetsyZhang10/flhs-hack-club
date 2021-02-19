@@ -36,6 +36,9 @@ ul {
   font-family: monospace;
 
 }
+a:hover{
+  background-color: #C6E9FF;
+}
 body {
 background-color: aliceblue; }
 #register-meeting {
