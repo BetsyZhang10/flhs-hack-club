@@ -25,6 +25,12 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-decoration: none;
+  width: 100vw;
+  background-color: #D6EFFF;
+  margin: 0;
+  padding: 0;
+  display: flex
 }
 body {
 background-color: aliceblue; }
